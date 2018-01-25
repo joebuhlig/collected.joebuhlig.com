@@ -15,10 +15,12 @@
 # in the templates via {{ site.myvariable }}.
 title: Collected
 email: joe@joebuhlig.com
+owner_name: Joe Buhlig
+owner_homepage: https://joebuhlig.com
 description: >- # this means to ignore newlines until "baseurl:"
   A place where interesting and discovered words can be shared. 
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "http://collected.joebuhlig.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: joebuhlig
 github_username:  joebuhlig
 repository: "joebuhlig/collected.joebuhlig.com"
@@ -28,6 +30,14 @@ remote_theme: joebuhlig/jekyll-theme-collected
 permalink: /:year/:month/:day/:title
 plugins:
   - jekyll-feed
+show_post_dates: false
+link_list:
+  books:
+    title: Books
+    url: /books
+  quotes:
+    title: Quotes
+    url: /quotes
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
