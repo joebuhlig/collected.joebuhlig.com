@@ -24,7 +24,7 @@ github_username:  joebuhlig
 repository: "joebuhlig/collected.joebuhlig.com"
 # Build settings
 markdown: kramdown
-theme: jekyll-theme-cayman
+remote_theme: joebuhlig/jekyll-theme-collected
 plugins:
   - jekyll-feed
 
