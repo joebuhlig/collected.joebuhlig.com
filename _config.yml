@@ -25,6 +25,7 @@ repository: "joebuhlig/collected.joebuhlig.com"
 # Build settings
 markdown: kramdown
 remote_theme: joebuhlig/jekyll-theme-collected
+permalink: /:year/:month/:day/:title
 plugins:
   - jekyll-feed
 
