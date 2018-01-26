@@ -13,8 +13,8 @@ amazon: https://www.amazon.com/How-Read-Book-Classic-Intelligent/dp/0671212095/r
 5. Skim the main chapters
 6. Skim the entire book
 
-* P. 38 You need to be able to read at different speeds. Not just faster than you currently do. 
-* P. 41 The assumption that we have the Declaration of Independence in house. 😂 It’s online. Why buy one?
+- P. 38 You need to be able to read at different speeds. Not just faster than you currently do. 
+- P. 41 The assumption that we have the Declaration of Independence in house. 😂 It’s online. Why buy one?
 
 **Four questions to ask of a book:**
 1. What is the book about as a whole?
@@ -22,7 +22,7 @@ amazon: https://www.amazon.com/How-Read-Book-Classic-Intelligent/dp/0671212095/r
 3. Is the book true, in whole or part?
 4. What of it? Why?
 
-* P. 50 Create a personal index at the back and write a summary outline at the beginning. 
+- P. 50 Create a personal index at the back and write a summary outline at the beginning. 
 
 I. THE FIRST STAGE OF ANALYTICAL READING: RULES FOR FINDING WHAT A BOOK IS ABOUT
 
@@ -53,7 +53,7 @@ B. Special Criteria for Points of Criticism
 14. Show wherein the author is illogical.
 15. Show wherein the author‘s analysis or account is incomplete.
 
-Action: Reevaluate the Bookworm format and how we process a book in post. 
+- Action: Reevaluate the Bookworm format and how we process a book in post. 
 
-* Imaginative literature: basically it’s saying to NOT get too wound up in the details. 
-* Reading poems: read it through first and then again out loud. 
+- Imaginative literature: basically it’s saying to NOT get too wound up in the details. 
+- Reading poems: read it through first and then again out loud. 
