@@ -31,13 +31,6 @@ permalink: /:year/:month/:day/:title
 plugins:
   - jekyll-feed
 show_post_dates: false
-link_list:
-  books:
-    title: Books
-    url: /books
-  quotes:
-    title: Quotes
-    url: /quotes
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
