@@ -31,6 +31,7 @@ permalink: /:year/:month/:day/:title
 plugins:
   - jekyll-feed
 show_post_dates: false
+google_analytics: UA-41316549-9
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
